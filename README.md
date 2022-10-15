@@ -1,5 +1,5 @@
 # wenyis_notes
 
-# MySQL
+MySQL
 
-## Readiness
+Readiness
